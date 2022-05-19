@@ -1,0 +1,3 @@
+https://archive.org/web/    Internet archive wayback machine
+https://docs.emmet.io/cheat-sheet/  emmet cheatsheet
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element   HTML elements link from Mozilla
